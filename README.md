@@ -33,3 +33,18 @@ Gems are hidden at dig sites, the player must find the map to reveal the dig sit
 * Hidden dig sites
 
 ## Gallery
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/mi1.png)
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/mi2.png)
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/mi3.png)
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/mi4.png)
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/mi5.png)
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/Island-Map.png)
+
+![alt text](https://github.com/dv-dev-6000/Return-to-Monkey-Island-Unity/blob/main/MI%20Gallery/Island-Markers.png)
+
